@@ -1,0 +1,24 @@
+[config]
+# ...
+[config.wallpaper]
+command ='swww'
+arguments = ["img", "--transition-type", "center"]
+set= true
+
+[templates.hyprland]
+input_path = '~/.config/matugen/hyprland-colors.conf'
+output_path = '~/.config/hypr/colors.conf'
+post_hook = 'hyprctl reload'
+
+[templates.qutebrowser]
+input_path = '~/.config/matugen/qutebrowser_colors.toml'
+output_path = '~/.config/qutebrowser/colors.toml'
+post_hook= "qutebrowser \":config-source\""
+[templates.kitty]
+input_path = '~/.config/matugen/kitty-colors.conf'
+output_path = '~/.config/kitty/colors.conf'
+post_hook = "kitty @ set-colors -a -c ~/.config/kitty/colors.conf"
+[templates.waybar]
+input_path = '~/.config/matugen/colors.css'
+output_path = '~/.config/waybar/colors.css'
+post_hook = "~/.config/waybar/scripts/refresh.sh"
