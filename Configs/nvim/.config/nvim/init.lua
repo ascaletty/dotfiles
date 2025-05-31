@@ -16,7 +16,6 @@ require("lazy").setup({{
         })
     end
  }})
- require("mason").setup()
 require("config.lualine")
 require('mini.completion').setup()
 vim.cmd([[colorscheme tokyonight-storm]])

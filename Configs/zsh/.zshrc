@@ -132,4 +132,47 @@ function y() {
 	rm -f -- "$tmp"
 }
 alias y ='yazi'
+alias ls='eza'
+
+function delectable(){
+  echo "yum"
+  cd /home/ascaletty23/Downloads
+}
+# Switch and tmuxify by project name
+sw() {
+  # Declare associative array (requires zsh, not bash)
+  typeset -A projects
+
+  # Map custom names to full project paths
+  projects=(
+    [euler]="$HOME/projects/projecteuler"
+    [resume]="$HOME/projects/python/web_resume"
+    [clay]="$HOME/projects/clay"
+  )
+
+  if [[ -z "$1" ]]; then
+    echo "Usage: sw <project_name>"
+    echo "Available projects:"
+    for name in "${(@k)projects}"; do
+      echo "  $name"
+    done
+    return 1
+  fi
+
+  local path="${projects[$1]}"
+
+  if [[ -z "$path" ]]; then
+    echo "Project '$1' not found."
+    echo "Available projects:"
+    for name in "${(@k)projects}"; do
+      echo "  $name"
+    done
+    return 1
+  fi
+
+  cd "$path" || { echo "Failed to cd into $path"; return 1; }
+  tmuxify
+}
+
+
 
