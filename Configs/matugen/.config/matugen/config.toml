@@ -27,4 +27,7 @@ output_path= '~/.config/swaync/colors.css'
 [templates.rofi]
 input_path = '~/.config/matugen/rofi-colors.rasi'
 output_path = '~/.config/rofi/colors.rasi'
+[templates.starship]
+input_path = '~/.config/matugen/starship.toml'
+output_path = '~/.config/starship.toml'
 

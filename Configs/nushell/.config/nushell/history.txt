@@ -1,0 +1,349 @@
+ls
+cd clay
+starship
+config
+config nu
+yazi
+cd clay
+cd projectz
+cd projects/
+cd python/web_resume/
+chsh nu
+cd
+yazi
+q
+config nu
+yazi
+config nu
+cd .config/nushell/config.nu
+cd .config/nushell/
+nvim config.nu
+cd
+config nu
+yazi
+cd clay
+nu confi
+nu config
+config nu
+cd clay
+nu versio
+nu version
+nu --version
+$nu.config-path
+$nu.env-path
+nvim .config/nushell/env.nu
+cd clay
+reboot
+cd clay
+ls
+rm a.out
+ls
+yazi
+source ./.zoxide.nu
+cd clay
+z clay
+cd
+config nu
+ls
+nvim ;
+rm ;
+yazi
+config nu
+ls
+cd clay
+config nu
+yazi
+help alais
+help alaises
+config nu
+z .config/
+z .config 
+yazi
+source ./.zoxide.nu
+z clay
+cd
+cd clay
+alais cd = z
+alias cd = z
+cd clay
+cd
+cd clay
+nvim .config/nushell/config.nu
+cd ckay
+cd clay
+config nu
+ls
+sudo pacman -Rns eza
+ls
+cd clay
+ls
+scope aliases
+config nu
+zi
+zi
+cdi
+config nu
+config nu
+nvim .config/nushell/config.nu
+z clay
+cdi
+zi
+cd
+config nu
+cd clau
+cd clay
+zi
+cd
+config nu
+cdi
+ls -S
+ls -l
+$table
+$table sily
+cd .config/
+cd dotfiles/
+ls
+cd Configs/
+ls
+cargo install nu_plugin_highlight
+mkdir nushell
+cd nushell/
+ls
+mkdir .config/nushell
+cd .config/
+cd nushell/
+cd 
+cd .config/
+cd dotfiles/
+ls
+tree
+cd Configs/tmux/.config/tmux/
+cd ..
+cd ...
+cd ....
+cd dotfiles
+ls
+tuckr add nushell
+ls
+yazi
+git push
+git add .
+git commit ,
+git commit .
+git commit . -m added nushell
+git commit . -m
+git commit . -m addnushell
+git push
+broot
+sudo pacman -Rns oh-my-posh-bin
+nvim 
+config nu
+which nu_plugin_highlight
+plugin add /home/ascaletty23/.cargo/bin/nu_plugin_highlight
+ls
+cd
+sw resume
+ls
+matugen image wallpaper/astronaut.jpg
+ls
+bat
+bat cap_%d
+bat projects/clay/main.c
+neofetch
+fastfetch
+cheese
+matugen image wallpaper/orange-desert.jpg
+cd projects/python/web_resume/
+cd
+cd .config/
+nvim starship.toml
+cd matugen
+ls
+nvim sta
+nvim starship.toml
+nvim config.toml
+cd
+matugen image wallpaper/orange-desert.jpg
+cd web_resume
+fas
+fastfetch 
+sudo pacman -Rns fastfetch neofetch
+cd
+cd kitty
+cd
+cd .config/kitty/
+nvim kitty.conf
+nitch
+fetch
+git clone https://github.com/Rizen54/richfetch<\n>cd richfetch/<\n>python3 -m pip install -r requirements.txt<\n>chmod +x richfetch.py<\n>sudo cp richfetch.py /usr/local/bin/richfetch<\n>alias richfetch='python3 /usr/local/bin/richfetch'
+git clone https://github.com/Rizen54/richfetch<\n>cd richfetch/<\n>python3 -m pip install -r requirements.txt<\n>chmod +x richfetch.py<\n>sudo cp richfetch.py /usr/local/bin/richfetch<\n>alias richfetch= python3 /usr/local/bin/richfetch
+git clone https://github.com/Rizen54/richfetch<\n>cd richfetch/<\n>python3 -m pip install -r requirements.txt<\n>chmod +x richfetch.py<\n>sudo cp richfetch.py /usr/local/bin/richfetch<\n>alias richfetch = python3 /usr/local/bin/richfetch
+richfetch
+cd web_resume
+cd we
+cd
+git clone https://github.com/Rizen54/richfetch<\n>cd richfetch/<\n>python3 -m pip install -r requirements.txt<\n>chmod +x richfetch.py<\n>sudo cp richfetch.py /usr/local/bin/richfetch<\n>alias richfetch='python3 /usr/local/bin/richfetch'
+git clone https://github.com/Rizen54/richfetch<\n>cd richfetch/<\n>python3 -m pip install -r requirements.txt<\n>chmod +x richfetch.py<\n>sudo cp richfetch.py /usr/local/bin/richfetch<\n>alias richfetch= python3 /usr/local/bin/richfetch
+git clone https://github.com/Rizen54/richfetch<\n>cd richfetch/<\n>python3 -m pip install -r requirements.txt<\n>chmod +x richfetch.py<\n>sudo cp richfetch.py /usr/local/bin/richfetch<\n>alias richfetch = python3 /usr/local/bin/richfetch
+cd ritchfetch
+cd richfetch/
+ls
+python richfetch.py
+cd
+rm -rf richfetch/
+curl -ffSL https://raw.githubusercontent.com/ajTronic/turbofetch/main/install.sh | sh
+turbofetch
+curl -ffSL https://raw.githubusercontent.com/ajTronic/turbofetch/main/install.sh | sh
+turbofetch
+git clone https://github.com/ajTronic/turbofetch
+cd turbofetch/
+ls
+./install.sh
+chmod +x install.sh
+./install.sh
+turbofetch
+gcc main.c
+./a.out
+cd
+cd turbofetch/
+ls
+rm install.sh
+cd ..
+rm -rf turbo
+rm -rf turbofetch
+ls
+nvim install.sh
+rm -rf install.sh
+nvim nufetch.nu
+./nufetch.nu
+nu nufetch.nu
+nu nu
+nu nufetch.nu
+rm nufetch.nu
+wget https://raw.githubusercontent.com/unxsh/nitch/main/setup.sh && sh setup.sh
+nitch
+yay -S ttf-3270-nerd
+kitten choose-fonts
+nitch
+cd .config/kitty/
+nvim kitty.conf
+nitch
+cd kitty
+cd
+cd dotfiles
+git push
+cd
+cd web_resume
+cd
+kitten
+cd .config/kitty
+nvim kitty.conf
+cd kitty
+cd
+cd .config/kitty/
+nvim kitty.conf
+kitten choose-fonts
+nvim kitty.conf
+kitten choose-fonts
+nitch
+pacman -S macchina
+sudo pacman -S macchina
+macchina
+sudo pacman -Rns macchina
+nf kitty.conf
+cd .config/kitty/
+nvim kitty.conf
+cd
+sw prod
+nitch
+richfetch
+ls
+cd
+cd .config/matugen
+ls
+cd nushell
+cd ..
+cd nushell/
+ls
+cd
+yazi
+tuckr status
+tuckr add \*
+tuckr add *
+cd .config/
+tuckr add *
+cd dotfiles/
+ls
+cd Configs/
+ls
+tree
+cd
+tuckr add nushell
+tuckr status
+cd .config/
+cd nushell/
+tuckr add nushell -f
+nitch
+tuckr status
+tuckr rm wal tofi
+tuckr add \*
+tuckr add *
+cd dotfiles
+tuckr add *
+tuckr add \*
+cd Configs/
+ls
+tuckr add *
+cd matugen/.config/matugen/config.toml
+cd matugen/.config/matugen/
+nvim config.toml
+cd
+pkill -9 waybar
+cd Uganda/
+mkdir GPSDATA
+unzip `GPS Data.zip` -d GPSDATA/
+cd GPSDATA/
+ls
+yazi
+yay -S gpxsee
+cd `GPS Data/`
+gpxsee
+nvim boundariesBubago.pdf
+firefox boundariesBubago.pdf
+gpxsee Borehole_to_Water_Tower.gpx
+git clone https://github.com/pipeseroni/pipes.sh
+cd pipes.sh/
+make install
+sudo make install
+pipes
+yay -S cmatrix
+cbonsai
+nitch
+cd hypr
+ls
+nvim hyprland.conf
+cd ..
+cd nvim
+cd
+rm -rf .config/nvim
+rm -rf ~/.local/share/nvim
+rm -rf ~/.local/state/nvim
+rm -rf ~/.cache/nvim
+tuckr add \*
+cd dotfiles
+tuckr add nvim
+cd
+tuckr status
+nvim
+rm -rf ~/.config/dotfiles/Configs/nvim/.config/nvim/*
+git clone https://github.com/LazyVim/starter ~/.config/dotfiles/Configs/nvim/.config/nvim/
+rm -rf ~/.config/dotfiles/Configs/nvim/.config/nvim/.neoconf.json
+rm -rf ~/.config/dotfiles/Configs/nvim/.config/nvim/
+git clone https://github.com/LazyVim/starter ~/.config/dotfiles/Configs/nvim/.config/nvim/
+tuckr add nvim
+nvim
+cd dotfiles
+git add .
+git commit .
+pacman -S vi
+sudo pacman -S vi
