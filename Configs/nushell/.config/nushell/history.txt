@@ -1876,3 +1876,65 @@ nitch
 cd dotfiles
 git add .
 git commit .
+git push
+ls
+cd Configs/
+ls
+mkdir cava/.config/cava/
+tree
+cd cava
+yazi
+cd ..
+mkdir ncspot/.config/ncspot/
+cd ..
+cd cava
+ls
+mv . ../dotfiles/Configs/cava/.config/cava/
+cd cava
+ls
+cd .config/
+ls
+cd cava/
+ls
+cd cava
+;s
+ls
+mv . ..
+mv  config shaders/ ..
+cd ..
+ls
+rm -r cava
+ls
+tuckr add cava
+yazi
+cd ..
+mkdir hypr/.config/hypr/
+cd hypr
+cd ..
+cd .
+cd ..
+cd .. 
+cd hypr
+mv  colors.conf hyprland.conf /home/ascaletty23/.config/dotfiles/Configs/hypr/.config/hypr/
+tuckr add hypr
+yazi
+tuckr status
+cd ..
+cd ncspot/
+ls
+yazi .config/
+cd dotfiles
+cd Configs/n
+cd ..
+ls
+tuckr status
+cd ncspot/.config/ncspot/
+ls
+mv config.toml userstate.cbor /home/ascaletty23/.config/dotfiles/Configs/ncspot/.config/ncspot/
+tuckr add ncspot
+tuckr status
+cd..
+cd ..
+cd .. 
+git add .
+git commit ,
