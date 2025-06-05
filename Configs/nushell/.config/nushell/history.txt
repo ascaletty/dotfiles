@@ -1875,3 +1875,4 @@ clear
 nitch
 cd dotfiles
 git add .
+git commit .
