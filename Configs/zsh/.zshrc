@@ -176,3 +176,6 @@ sw() {
 
 
 
+
+# Created by `pipx` on 2025-06-02 18:25:12
+export PATH="$PATH:/home/ascaletty23/.local/bin"

@@ -6,5 +6,7 @@ $env.config.buffer_editor = "nvim"
 source ~/.zoxide.nu
 alias cd = z 
 alias cdi = zi
+alias ls = ls -a
+alias spac = sudo pacman 
 
 

@@ -30,4 +30,9 @@ output_path = '~/.config/rofi/colors.rasi'
 [templates.starship]
 input_path = '~/.config/matugen/starship.toml'
 output_path = '~/.config/starship.toml'
-
+[templates.cava]
+input_path ='~/.config/matugen/config'
+output_path='~/.config/cava/config' 
+[templates.ncspot]
+input_path= '~/.config/matugen/config_ncspot.toml'
+output_path='~/.config/ncspot/config.toml'
