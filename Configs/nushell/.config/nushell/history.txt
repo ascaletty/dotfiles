@@ -1938,3 +1938,41 @@ cd ..
 cd .. 
 git add .
 git commit ,
+git commit .
+git push
+ls
+cd Hook
+cd ..
+ls
+sudo apt-get install cbonsai
+cd dotfiles
+nvim install.sh
+./install.sh
+chmod +x install.sh
+./install.sh
+cd dotfiles
+ls
+nvim install.sh
+./
+./in
+./install.sh
+cd
+ls
+bat install_progress_log.txt
+rm install_progress_log.txt
+sudo pacman -S matugen
+yay -S matugen
+cd matugen
+ls
+timectl ./wallpaper.sh
+timeit ./wallpaper.sh
+timeit | ./wallpaper.sh
+timeit ./wallpaper.sh
+time ./wallpaper.sh
+cd matugen
+ls
+chsh zsh
+chsh$ zsh
+cd
+cd kitty
+nvim kitty.conf
