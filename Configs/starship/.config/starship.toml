@@ -7,14 +7,14 @@ $time\
 """
 palette = 'colors'
 [palettes.colors]
-color1 = '#81d3e0'
-color2 = '#00363c'
+color1 = '#82d3e1'
+color2 = '#00363d'
 color3 = '#bfc8ca'
 color4 = '#1b2122'
-color5 = '#00363c'
+color5 = '#00363d'
 color6 = '#0e1415'
 color7 = '#0e1415'
-color8 = '#81d3e0'
+color8 = '#82d3e1'
 color9 = '#bac6ea'
 [c]
 symbol = " "

@@ -171,7 +171,7 @@ sw() {
   fi
 
   cd "$path" || { echo "Failed to cd into $path"; return 1; }
-  tmuxify
+  exec tmuxify
 }
 
 

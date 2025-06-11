@@ -117,22 +117,22 @@ repeat = 'off'
 # Gruvbox dark [ originally based on base16 by Dawid Kurek (dawikur@gmail.com) ]
 [theme]
 background = "default"
-primary = "#81d3e0"
+primary = "#82d3e1"
 secondary = "#b1cbd0"
 title = "#bac6ea"
-playing = "##81d3e0"
+playing = "##82d3e1"
 playing_bg = "#899294"
-playing_selected = "#dee3e4"
-highlight = "#00363c"
-highlight_bg = "#004f57"
+playing_selected = "#dee3e5"
+highlight = "#00363d"
+highlight_bg = "#004f58"
 error = "#ffb4ab"
 error_bg = "#93000a"
-statusbar_progress = "#006973"
-statusbar_bg = "#dee3e4"
+statusbar_progress = "#006874"
+statusbar_bg = "#dee3e5"
 statusbar = "#899294"
-cmdline = "#81d3e0"
-cmdline_bg = "#3a4664"
-search_match = "#173236"
+cmdline = "#82d3e1"
+cmdline_bg = "#3b4665"
+search_match = "#3f8c98"
 
 ## Base16 solarized dark, originally form https://github.com/gidsi/base16-ncspot
 # [theme]
