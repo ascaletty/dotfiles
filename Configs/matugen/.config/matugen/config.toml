@@ -36,3 +36,7 @@ output_path='~/.config/cava/config'
 [templates.ncspot]
 input_path= '~/.config/matugen/config_ncspot.toml'
 output_path='~/.config/ncspot/config.toml'
+[templates.neomutt]
+input_path= '~/.config/matugen/colors.muttrc'
+output_path='~/.config/mutt/colors.muttrc'
+

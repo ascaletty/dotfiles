@@ -171,7 +171,7 @@ sw() {
   fi
 
   cd "$path" || { echo "Failed to cd into $path"; return 1; }
-  exec tmuxify
+  tmuxify
 }
 
 
@@ -179,3 +179,9 @@ sw() {
 
 # Created by `pipx` on 2025-06-02 18:25:12
 export PATH="$PATH:/home/ascaletty23/.local/bin"
+
+. "$HOME/.atuin/bin/env"
+
+eval "$(atuin init zsh)"
+export CALCURSE_EDITOR=nvim
+
