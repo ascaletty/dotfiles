@@ -33,10 +33,12 @@ output_path = '~/.config/starship.toml'
 [templates.cava]
 input_path ='~/.config/matugen/config'
 output_path='~/.config/cava/config' 
-[templates.ncspot]
-input_path= '~/.config/matugen/config_ncspot.toml'
-output_path='~/.config/ncspot/config.toml'
 [templates.neomutt]
 input_path= '~/.config/matugen/colors.muttrc'
 output_path='~/.config/mutt/colors.muttrc'
+[templates.tmux]
+input_path = '~/.config/matugen/tmux_theme.tmuxtheme'
+output_path= '~/.config/tmux/plugins/catppuccin-tmux/mytheme.tmuxtheme'
+
+
 

@@ -219,14 +219,14 @@ gradient = 1
 gradient_count = 8
 
 #GruvBox Green to Red Gradient
-gradient_color_1 = '#99ccfa'
-gradient_color_2 = '#b8c8da' 
-gradient_color_3 =  '#d2bfe7'
-gradient_color_4 = '#101418'
-gradient_color_5 = '#163953'
+gradient_color_1 = '#80d4dc'
+gradient_color_2 = '#b1cbce' 
+gradient_color_3 =  '#b7c7ea'
+gradient_color_4 = '#0e1415'
+gradient_color_5 = '#325b5f'
 gradient_color_6 = '#ffb4ab'
-gradient_color_7 = '#8c9198' 
-gradient_color_8 = '#eddcff'
+gradient_color_7 = '#899393' 
+gradient_color_8 = '#d7e2ff'
 
 
 [smoothing]

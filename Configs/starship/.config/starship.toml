@@ -1,3 +1,14 @@
+palette = 'colors'
+[palettes.colors]
+color1 = '#80d4dc'
+color2 = '#00363b'
+color3 = '#bec8c9'
+color4 = '#1a2121'
+color5 = '#00363b'
+color6 = '#0e1415'
+color7 = '#0e1415'
+color8 = '#80d4dc'
+color9 = '#b7c7ea'
 [aws]
 symbol = "  "
 
