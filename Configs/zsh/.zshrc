@@ -1,10 +1,10 @@
+alias icat="kitten icat"
 
 export EDITOR= nvim
 
 eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
 . "$HOME/.cargo/env"
-
 
 
 alias cd="z"
@@ -184,4 +184,4 @@ export PATH="$PATH:/home/ascaletty23/.local/bin"
 
 eval "$(atuin init zsh)"
 export CALCURSE_EDITOR=nvim
-
+export PATH=$PATH:/home/ascaletty23/go/bin/

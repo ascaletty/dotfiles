@@ -20,3 +20,5 @@ for key, value in get_all_keys(mappings, prefix=['colors']):
 config.bind(",w", "open https://web.archive.org/web/20250000000000*/{url}")
 config.bind("<Ctrl-c>", "mode-enter normal", mode='insert')
 # config.set('content.javascript.enabled', False)
+config.set('content.blocking.enabled', False)
+
