@@ -1,9 +1,9 @@
+alias icat="kitten icat"
 
 export EDITOR= nvim
 
 eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
-
 
 alias cd="z"
 alias cdi='zi'
@@ -191,4 +191,4 @@ export PATH=$PATH:/usr/local/texlive/2025/bin/x86_64-linux
 
 eval "$(atuin init zsh)"
 export CALCURSE_EDITOR=nvim
-
+export PATH=$PATH:/home/ascaletty23/go/bin/

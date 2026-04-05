@@ -1,14 +1,4 @@
 palette = 'colors'
-[palettes.colors]
-color1 = '#99ccfa'
-color2 = '#003352'
-color3 = '#c2c7ce'
-color4 = '#1c2024'
-color5 = '#003352'
-color6 = '#101418'
-color7 = '#101418'
-color8 = '#99ccfa'
-color9 = '#d2bfe7'
 [aws]
 symbol = "  "
 
@@ -199,3 +189,7 @@ symbol = " "
 
 [gradle]
 symbol = " "
+# [custom.current_task]
+# command = """TASKRC=~/.trackwarrior-docker/.taskrc TASKDATA=~/.trackwarrior-docker/.task unbuffer task starship-project | head -5 | tail -1 | sed "s/No matches./[No active task]/" | xargs"""
+# when = true
+# shell = "bash"

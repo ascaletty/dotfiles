@@ -104,6 +104,7 @@ return {
     ---@type render.md.UserConfig
     opts = {},
 },
+<<<<<<< HEAD
   -- plugins/quarto.lu
   {
     "quarto-dev/quarto-nvim",
@@ -148,4 +149,7 @@ return {
     -- see below for full list of options 👇
   },
 },
+=======
+
+>>>>>>> refs/remotes/origin/main
 }

@@ -13,7 +13,12 @@ settings:
       normal:
         ',o': download-open
         ',w': open https://web.archive.org/web/20250000000000*/{url}
+<<<<<<< HEAD
         <Ctrl+/>: hint links spawn --detach mpv {hint-url}
+=======
+        <Alt+p>: spawn --userscript qute-bitwarden
+        <Alt>: q <Esc>
+>>>>>>> refs/remotes/origin/main
         <Ctrl+c>: mode-enter normal
         qr: greasemonkey-reload
         zl: spawn --userscript qute-pass
@@ -21,13 +26,20 @@ settings:
         zpl: spawn --userscript qute-pass --password-only
         zul: spawn --userscript qute-pass --username-only
   content.geolocation:
+    https://www.speedtest.net: true
     https://www.tripadvisor.com: true
   content.javascript.clipboard:
+    https://anufrievroman.gitbook.io: access-paste
     https://chatgpt.com: access-paste
     https://cmp.saghen.dev: access-paste
     https://crates.io: access-paste
+    https://discord.com: access-paste
     https://github.com: access-paste
+    https://outlook.office.com: access-paste
+    https://ratatui.rs: access-paste
     https://starship.rs: access-paste
+    https://usc-powerpoint.officeapps.live.com: access-paste
+    https://www.canva.com: access-paste
     https://www.geeksforgeeks.org: access-paste
     https://www.nushell.sh: access-paste
   content.register_protocol_handler:

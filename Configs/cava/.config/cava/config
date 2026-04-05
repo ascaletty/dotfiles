@@ -219,6 +219,7 @@ gradient = 1
 gradient_count = 8
 
 #GruvBox Green to Red Gradient
+<<<<<<< HEAD
 gradient_color_1 = '#99ccfa'
 gradient_color_2 = '#b8c8da' 
 gradient_color_3 =  '#d2bfe7'
@@ -227,6 +228,16 @@ gradient_color_5 = '#0a4c74'
 gradient_color_6 = '#ffb4ab'
 gradient_color_7 = '#8c9198' 
 gradient_color_8 = '#eddcff'
+=======
+gradient_color_1 = '#80d4da'
+gradient_color_2 = '#b1cccd' 
+gradient_color_3 =  '#b6c7ea'
+gradient_color_4 = '#0e1415'
+gradient_color_5 = '#0c1a1b'
+gradient_color_6 = '#ffb4ab'
+gradient_color_7 = '#899393' 
+gradient_color_8 = '#d6e3ff'
+>>>>>>> refs/remotes/origin/main
 
 
 [smoothing]

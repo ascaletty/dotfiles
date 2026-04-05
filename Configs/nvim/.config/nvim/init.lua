@@ -1,3 +1,4 @@
+-- Optional, you don't have to run setup.
 -- bootstrap lazy.nvim, LazyVim and your plugins
 require("config.lazy")
 require("lazy").setup({
@@ -14,6 +15,7 @@ require("lazy").setup({
     { import = "plugins" },
   },
 })
+<<<<<<< HEAD
 require("quarto").setup({
   debug = false,
   closePreviewOnExit = true,
@@ -56,3 +58,5 @@ local lspconfig = require("lspconfig")
 lspconfig.texlab.setup({
   capabilities = require("blink.cmp").get_lsp_capabilities(),
 })
+=======
+>>>>>>> refs/remotes/origin/main
