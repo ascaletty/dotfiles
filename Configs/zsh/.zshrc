@@ -3,8 +3,6 @@ export EDITOR= nvim
 
 eval "$(starship init zsh)"
 eval "$(zoxide init zsh)"
-. "$HOME/.cargo/env"
-
 
 
 alias cd="z"
@@ -178,9 +176,18 @@ sw() {
 
 
 # Created by `pipx` on 2025-06-02 18:25:12
-export PATH="$PATH:/home/ascaletty23/.local/bin"
+export PATH=$PATH:/home/ascaletty23/.local/bin/
 
-. "$HOME/.atuin/bin/env"
+export PATH=$PATH:/home/ascaletty23/.cargo/bin/
+export PATH=$PATH:$(go env GOPATH)/bin
+export PATH=$PATH:~/.cargo/bin
+export PATH=$PATH:/usr/local/texlive/2025/bin/x86_64-linux
+
+
+
+
+
+# . "$HOME/.atuin/bin/env"
 
 eval "$(atuin init zsh)"
 export CALCURSE_EDITOR=nvim

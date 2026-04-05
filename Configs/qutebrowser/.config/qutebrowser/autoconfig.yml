@@ -11,8 +11,15 @@ settings:
       insert:
         <Ctrl+c>: mode-enter normal
       normal:
+        ',o': download-open
         ',w': open https://web.archive.org/web/20250000000000*/{url}
+        <Ctrl+/>: hint links spawn --detach mpv {hint-url}
         <Ctrl+c>: mode-enter normal
+        qr: greasemonkey-reload
+        zl: spawn --userscript qute-pass
+        zol: spawn --userscript qute-pass --otp-only
+        zpl: spawn --userscript qute-pass --password-only
+        zul: spawn --userscript qute-pass --username-only
   content.geolocation:
     https://www.tripadvisor.com: true
   content.javascript.clipboard:
