@@ -1,0 +1,39 @@
+[config]
+# ...
+[config.wallpaper]
+command ='awww'
+arguments = ["img", "--transition-type", "center"]
+set= true
+
+[templates.hyprland]
+input_path = '~/.config/matugen/hyprland-colors.conf'
+output_path = '~/.config/hypr/colors.conf'
+post_hook = 'hyprctl reload'
+
+[templates.qutebrowser]
+input_path = '~/.config/matugen/qutebrowser_colors.toml'
+output_path = '~/.config/qutebrowser/colors.toml'
+[templates.kitty]
+input_path = '~/.config/matugen/kitty-colors.conf'
+output_path = '~/.config/kitty/colors.conf'
+post_hook = "kitty @ set-colors -a -c ~/.config/kitty/colors.conf"
+[templates.rofi]
+input_path = '~/.config/matugen/rofi-colors.rasi'
+output_path = '~/.config/rofi/colors.rasi'
+[templates.starship]
+input_path = '~/.config/matugen/starship.toml'
+output_path = '~/.config/starship.toml'
+[templates.cava]
+input_path ='~/.config/matugen/config'
+output_path='~/.config/cava/config' 
+[templates.neomutt]
+input_path= '~/.config/matugen/colors.muttrc'
+output_path='~/.config/mutt/colors.muttrc'
+[templates.tmux]
+input_path = '~/.config/matugen/tmux_theme.tmuxtheme'
+output_path= '~/.config/tmux/plugins/catppuccin-tmux/mytheme.tmuxtheme'
+[templates.rio]
+input_path='~/.config/matugen/rio.toml'
+output_path= '~/.config/rio/themes/rio.toml'
+
+
