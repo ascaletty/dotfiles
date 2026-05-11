@@ -1,0 +1,1978 @@
+ls
+cd clay
+starship
+config
+config nu
+yazi
+cd clay
+cd projectz
+cd projects/
+cd python/web_resume/
+chsh nu
+cd
+yazi
+q
+config nu
+yazi
+config nu
+cd .config/nushell/config.nu
+cd .config/nushell/
+nvim config.nu
+cd
+config nu
+yazi
+cd clay
+nu confi
+nu config
+config nu
+cd clay
+nu versio
+nu version
+nu --version
+$nu.config-path
+$nu.env-path
+nvim .config/nushell/env.nu
+cd clay
+reboot
+cd clay
+ls
+rm a.out
+ls
+yazi
+source ./.zoxide.nu
+cd clay
+z clay
+cd
+config nu
+ls
+nvim ;
+rm ;
+yazi
+config nu
+ls
+cd clay
+config nu
+yazi
+help alais
+help alaises
+config nu
+z .config/
+z .config 
+yazi
+source ./.zoxide.nu
+z clay
+cd
+cd clay
+alais cd = z
+alias cd = z
+cd clay
+cd
+cd clay
+nvim .config/nushell/config.nu
+cd ckay
+cd clay
+config nu
+ls
+sudo pacman -Rns eza
+ls
+cd clay
+ls
+scope aliases
+config nu
+zi
+zi
+cdi
+config nu
+config nu
+nvim .config/nushell/config.nu
+z clay
+cdi
+zi
+cd
+config nu
+cd clau
+cd clay
+zi
+cd
+config nu
+cdi
+ls -S
+ls -l
+$table
+$table sily
+cd .config/
+cd dotfiles/
+ls
+cd Configs/
+ls
+cargo install nu_plugin_highlight
+mkdir nushell
+cd nushell/
+ls
+mkdir .config/nushell
+cd .config/
+cd nushell/
+cd 
+cd .config/
+cd dotfiles/
+ls
+tree
+cd Configs/tmux/.config/tmux/
+cd ..
+cd ...
+cd ....
+cd dotfiles
+ls
+tuckr add nushell
+ls
+yazi
+git push
+git add .
+git commit ,
+git commit .
+git commit . -m added nushell
+git commit . -m
+git commit . -m addnushell
+git push
+broot
+sudo pacman -Rns oh-my-posh-bin
+nvim 
+config nu
+which nu_plugin_highlight
+plugin add /home/ascaletty23/.cargo/bin/nu_plugin_highlight
+ls
+cd
+sw resume
+ls
+matugen image wallpaper/astronaut.jpg
+ls
+bat
+bat cap_%d
+bat projects/clay/main.c
+neofetch
+fastfetch
+cheese
+matugen image wallpaper/orange-desert.jpg
+cd projects/python/web_resume/
+cd
+cd .config/
+nvim starship.toml
+cd matugen
+ls
+nvim sta
+nvim starship.toml
+nvim config.toml
+cd
+matugen image wallpaper/orange-desert.jpg
+cd web_resume
+fas
+fastfetch 
+sudo pacman -Rns fastfetch neofetch
+cd
+cd kitty
+cd
+cd .config/kitty/
+nvim kitty.conf
+nitch
+fetch
+git clone https://github.com/Rizen54/richfetch<\n>cd richfetch/<\n>python3 -m pip install -r requirements.txt<\n>chmod +x richfetch.py<\n>sudo cp richfetch.py /usr/local/bin/richfetch<\n>alias richfetch='python3 /usr/local/bin/richfetch'
+git clone https://github.com/Rizen54/richfetch<\n>cd richfetch/<\n>python3 -m pip install -r requirements.txt<\n>chmod +x richfetch.py<\n>sudo cp richfetch.py /usr/local/bin/richfetch<\n>alias richfetch= python3 /usr/local/bin/richfetch
+git clone https://github.com/Rizen54/richfetch<\n>cd richfetch/<\n>python3 -m pip install -r requirements.txt<\n>chmod +x richfetch.py<\n>sudo cp richfetch.py /usr/local/bin/richfetch<\n>alias richfetch = python3 /usr/local/bin/richfetch
+richfetch
+cd web_resume
+cd we
+cd
+git clone https://github.com/Rizen54/richfetch<\n>cd richfetch/<\n>python3 -m pip install -r requirements.txt<\n>chmod +x richfetch.py<\n>sudo cp richfetch.py /usr/local/bin/richfetch<\n>alias richfetch='python3 /usr/local/bin/richfetch'
+git clone https://github.com/Rizen54/richfetch<\n>cd richfetch/<\n>python3 -m pip install -r requirements.txt<\n>chmod +x richfetch.py<\n>sudo cp richfetch.py /usr/local/bin/richfetch<\n>alias richfetch= python3 /usr/local/bin/richfetch
+git clone https://github.com/Rizen54/richfetch<\n>cd richfetch/<\n>python3 -m pip install -r requirements.txt<\n>chmod +x richfetch.py<\n>sudo cp richfetch.py /usr/local/bin/richfetch<\n>alias richfetch = python3 /usr/local/bin/richfetch
+cd ritchfetch
+cd richfetch/
+ls
+python richfetch.py
+cd
+rm -rf richfetch/
+curl -ffSL https://raw.githubusercontent.com/ajTronic/turbofetch/main/install.sh | sh
+turbofetch
+curl -ffSL https://raw.githubusercontent.com/ajTronic/turbofetch/main/install.sh | sh
+turbofetch
+git clone https://github.com/ajTronic/turbofetch
+cd turbofetch/
+ls
+./install.sh
+chmod +x install.sh
+./install.sh
+turbofetch
+gcc main.c
+./a.out
+cd
+cd turbofetch/
+ls
+rm install.sh
+cd ..
+rm -rf turbo
+rm -rf turbofetch
+ls
+nvim install.sh
+rm -rf install.sh
+nvim nufetch.nu
+./nufetch.nu
+nu nufetch.nu
+nu nu
+nu nufetch.nu
+rm nufetch.nu
+wget https://raw.githubusercontent.com/unxsh/nitch/main/setup.sh && sh setup.sh
+nitch
+yay -S ttf-3270-nerd
+kitten choose-fonts
+nitch
+cd .config/kitty/
+nvim kitty.conf
+nitch
+cd kitty
+cd
+cd dotfiles
+git push
+cd
+cd web_resume
+cd
+kitten
+cd .config/kitty
+nvim kitty.conf
+cd kitty
+cd
+cd .config/kitty/
+nvim kitty.conf
+kitten choose-fonts
+nvim kitty.conf
+kitten choose-fonts
+nitch
+pacman -S macchina
+sudo pacman -S macchina
+macchina
+sudo pacman -Rns macchina
+nf kitty.conf
+cd .config/kitty/
+nvim kitty.conf
+cd
+sw prod
+nitch
+richfetch
+ls
+cd
+cd .config/matugen
+ls
+cd nushell
+cd ..
+cd nushell/
+ls
+cd
+yazi
+tuckr status
+tuckr add \*
+tuckr add *
+cd .config/
+tuckr add *
+cd dotfiles/
+ls
+cd Configs/
+ls
+tree
+cd
+tuckr add nushell
+tuckr status
+cd .config/
+cd nushell/
+tuckr add nushell -f
+nitch
+tuckr status
+tuckr rm wal tofi
+tuckr add \*
+tuckr add *
+cd dotfiles
+tuckr add *
+tuckr add \*
+cd Configs/
+ls
+tuckr add *
+cd matugen/.config/matugen/config.toml
+cd matugen/.config/matugen/
+nvim config.toml
+cd
+pkill -9 waybar
+cd Uganda/
+mkdir GPSDATA
+unzip `GPS Data.zip` -d GPSDATA/
+cd GPSDATA/
+ls
+yazi
+yay -S gpxsee
+cd `GPS Data/`
+gpxsee
+nvim boundariesBubago.pdf
+firefox boundariesBubago.pdf
+gpxsee Borehole_to_Water_Tower.gpx
+git clone https://github.com/pipeseroni/pipes.sh
+cd pipes.sh/
+make install
+sudo make install
+pipes
+yay -S cmatrix
+cbonsai
+nitch
+cd hypr
+ls
+nvim hyprland.conf
+cd ..
+cd nvim
+cd
+rm -rf .config/nvim
+rm -rf ~/.local/share/nvim
+rm -rf ~/.local/state/nvim
+rm -rf ~/.cache/nvim
+tuckr add \*
+cd dotfiles
+tuckr add nvim
+cd
+tuckr status
+nvim
+rm -rf ~/.config/dotfiles/Configs/nvim/.config/nvim/*
+git clone https://github.com/LazyVim/starter ~/.config/dotfiles/Configs/nvim/.config/nvim/
+rm -rf ~/.config/dotfiles/Configs/nvim/.config/nvim/.neoconf.json
+rm -rf ~/.config/dotfiles/Configs/nvim/.config/nvim/
+git clone https://github.com/LazyVim/starter ~/.config/dotfiles/Configs/nvim/.config/nvim/
+tuckr add nvim
+nvim
+cd dotfiles
+git add .
+git commit .
+pacman -S vi
+sudo pacman -S vi
+git commit .
+git push
+cd
+cd matugen
+nvim config.toml
+nvim starship.toml
+cd
+matugen image wallpaper/Nocturne-of-Steel-and-Glass.jpg
+cd web_resume
+cd 
+matugen image wallpaper/sundown-over-sea.jpg
+cd web_resume
+cd
+ls
+cd .config/
+nvim starship.toml
+cd
+matugen image wallpaper/sundown-over-sea.jpg
+cd web_resume
+cd
+cd .config/
+nvim starship.toml
+cd
+cd web_resume
+cd
+matugen image wallpaper/or
+matugen image wallpaper/orange-desert.jpg
+cd web_resume
+nvim cd
+s
+cd 
+cd .config/
+nvim starship.toml
+tuckr add starship
+cd
+tuckr status
+d
+cd
+matugen image wallpaper/orange-desert.jpg
+cdi
+cd
+cd hypr
+cdi
+nvim starship.toml
+matugen image wallpaper/7731799-2091613552.png
+nvim hyprland.conf
+cd
+cd clay
+ls
+cd clay
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+nvim main.c
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+cd clay
+tmuxify
+cd projects
+ls 
+mkdir soap
+cd soap
+ls
+python -m venv soap
+ls
+source soap/bin/activate
+python3.11 -m pip install virtualenv<\n>python3.11 -m virtualenv env_nu <\n>overlay use env_nu/bin/activate.nu<\n>pip install -r requirements.txt 
+python -m pip install --user virtualenv<\n>
+pip install virtualenv
+sudo pacman -S python-virtualenv
+rm -rf soap
+virtualenv soap
+source soap/bin/activate.nu
+yay -S poetry
+npm i -g @saleor/cli
+sudo pacman -S npm
+npm i -g @saleor/cli
+sudo npm i -g @saleor/cli
+saleor register
+npm uninstall all
+cd soap
+;s
+ls
+rm package package.json package-lock.json
+rm package-lock.json package.json
+source soap/bin/activate.nu
+git clone https://github.com/django-oscar/django-oscar.git
+ls
+cd django-oscar/
+make sandbox
+sandbox/manage.py runserver
+pip install django-oscar-paypal
+pip install django --upgrade
+pip uninstall django-oscar-paypal
+pip install django-oscar-paymentexpress
+cd sandbox/
+ls
+nvim settings.py
+manage.py migrate paymentexpress
+python manage.py migrate paymentexpress
+./ manage.py migrate paymentexpress
+./manage.py migrate paymentexpress
+pip install south
+./manage.py migrate paymentexpress
+python manage.py migrate paymentexpress
+nvim settings.py
+./manage.py migrate paymentexpress
+pip install django-oscar-paymentexpress --upgrade
+./manage.py migrate paymentexpress
+cd soap
+ls
+source soap/bin/activate.nu
+cd sa
+ls
+python manage.py runserver
+mv db.sqlite south.db.sqlite3
+python manage.py runserver
+ls
+pip uninstall django-oscar-paypal
+pip uninstall django-oscar-paymentexpress
+python manage.py runserver
+nvim settings.py
+python manage.py runserver
+cd ..
+rm sandbox/
+rm -rf sandbox/
+django-admin startproject soap
+ls
+cd ..
+ls
+cd soap/
+ls
+cd ..
+cd django-oscar/
+ls
+mv -r soap soapsite
+mv soap soapsite
+mv soapsite/ ..
+cd ..
+cd soapsite/
+ls
+python manage.py runserver
+nvim se
+cd soap/
+nvim settings.py
+nvim urls.py
+cd ..
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver
+python manage.py createsuperuser
+python manage.py runserver
+nvim set
+nvim settings.py
+cd soap
+nvim settings.py
+cd ..
+./manage.py runserver
+bat db.sqlite3
+nvim soap/settings.py
+python manage.py runserver
+nvim soap/settings.py
+python manage.py runserver
+rm -rf soap/ db.sqlite3
+cd ..
+rm -rf soapsite/
+django-admin startproject soapsite
+ls
+cd soapsite/
+ls
+cd soapsite/
+ls
+nvim settings.py
+nvim urls.py
+cd ..
+ls
+python manage.py migrate
+python manage.py createsuperuser
+python manage.py runserver
+python manage.py migrate
+python manage.py runserver
+python manage.py sqlmigrate
+python manage.py makemigrations
+python manage.py sqlmigrate db.sqlite3
+python manage.py sqlmigrate data
+python manage.py cleanup
+python manage.py flush
+python manage.py runserver
+ls
+cd soapsite/
+ls
+python manage.py runserver
+cd ..
+python manage.py runserver
+python manage.py sqlmigratls
+python manage.py flush
+python manage.py createsuperuser
+python manage.py runserver
+cd soapsite/
+nvim settings.py
+cd ..
+python manage.py migrate
+ls
+rm db.sqlite3
+python manage.py migrate
+python manage.py runserver
+pip install pycounty
+pip install pycountry
+python manage.py oscar_populate_countries
+python manage.py createsuperuser
+python manage.py runserver
+python manage.py migrate
+python manage.py runserver
+nvim soapsite/settings.py
+nvim .env
+ls
+cd soapsite/
+ls
+nvim settings.py
+nvim .env
+nvim .gitignore
+nvim settings.py
+pip install .env
+pip install dotenv
+nvim settings.py
+python manage.py runserver
+cd ..
+python manage.py runserver
+cd soapsite/
+nvim settings.py
+python manage.py runserver
+cd ..
+python manage.py runserver
+git init
+git branch -M main
+ls
+nvim .env
+nvim .gitignore
+cd soap
+ls
+mv .env ..
+cd ..
+ls
+ls -a
+config nu
+ls
+ls -a
+git add .
+ls
+git commit .
+nvim .gitignore
+git add .
+git commit .
+nvim .gitignore
+ls
+git status
+git add .
+git status
+cd soapsite/
+rm .gitignore
+cd ..
+ls
+git stauts
+git status
+git remote add origin git@github.com:ascaletty/soap_website.git
+git add README.md
+nvim README.md
+git add README.md
+git commit .
+git push -u origin main
+python manage.py runserver
+nvim soapsite/settings.py
+python manage.py runserver
+pip install pysolr
+pip freeze -> requirements.txt
+pip freeze > requirements.txt
+ls
+nvim requirements.txt
+pip freeze > requirements.txt
+ls
+nvim requirements.txt
+python pip freeze > requirements.txt
+python -m pip freeze > requirements.txt
+ls
+cat requirements.txt
+sudo pip freeze > requirements.txt
+cat requirements.txt
+python -m pip freeze > requirements.txt
+cat requirements.txt
+rm requirements.txt
+pip freeze > requirements.txt<\n>
+cd soapsite/
+ls
+ls -a
+cd ..
+ls -a
+nvim requirements.txt
+pip freeze > requirements.txt<\n>
+cat requirements.txt
+pip freeze > requirements.txt
+cat requirements.txt
+bat requirements.txt
+$ pip freeze > requirements.txt
+py -m pip freeze > requirements.txt
+python -m pip freeze > requirements.txt
+bat requirements.txt
+pip3 freeze > requirements.txt
+pip freeze | to text | save requirements.txt
+pip freeze | to text | save requirements.txt -f
+bat requirements.txt
+ls
+./manage.py build_solr_scheme
+cd
+cd 
+wget -O ${HOME}/solr-6.6.6.tgz https://archive.apache.org/dist/lucene/solr/6.6.6/solr-6.6.6.tgz
+cd soap
+config nu
+yazi
+cd soap
+ls
+python manage.py runserver
+ls
+cd soapsite/
+ls
+cd ..
+soap/bin/activate.nu
+sourcesoap/bin/activate.nu
+source soap/bin/activate.nu
+cd soapsite/
+ls
+btop
+python manage.py runserver
+cd solr
+ls
+./bin/solr create -c sandbox -n basic_config
+sudo reboot
+cd solr
+./bin/solr start
+cat /proc/sys/kernel/random/entropy_avail
+./bin/solr start
+solr --version
+ls
+nvim README.txt
+./bin/solr start --help
+./bin/solr start -V
+ls
+nvim server/logs/solr.log
+./bin/solr start -V
+java -version
+echo $JAVA_HOME
+sudo pacman -S java-1.8.0-openjdk
+yay -S java8-openjdk
+sudo pacman -S java8-openjdk
+yay -S jdk8-openjdk
+./bin/solr start -V
+java -version
+java --version
+sudo pacman -Rns java-1.8.0-openjdk
+pacman
+cd soap
+ls
+nvim soapsite/settings.py
+python manage.py runserver
+cd ..
+source soap/bin/activate.nu
+cd soapsite/
+python manage.py runserver
+ls
+cd soapsite/
+ls
+cd urls.py
+nvim urls.py
+ls
+cd ..
+ls
+cd media_root/
+ls
+cd ..
+ls
+cd soapsite/
+ls -a
+cd ..
+ls
+pip install django-oscar-paymentexpress
+nvim soapsite/settings.py
+./manage.py migrate paymentexpress
+pip install django-oscar-paypal<\n>
+pip install "django-oscar-paypal[oscar]"
+nvim soapsite/settings.py
+python manage.py syncdb
+nvim soapsite/settings.py
+pip install "django-oscar-paypal[oscar]"
+pip uninstall all
+pip uninstall --all
+pip uninstall 
+pip uninstall *
+cd soap
+ls
+cd ..
+source soap/bin/activate.nu
+cd soapsite/
+ls
+python manage.py runserver
+python manage.py syncdb
+ripgrep
+nvim soapsite/urls.py
+python manage.py syncdb
+nvim soapsite/urls.py
+pip freeze | to text | save requirements.txt -f
+bat requirements.txt
+pip uninstall django-oscar-paymentexpress
+python manage.py syncdb
+nvim soapsite/settings.py
+pip uninstall > requirements.txt
+pip uninstall <requirements.txt
+pip uninstall -r requirements.txt -y
+pip list
+pip freeze | to text | save requirements.txt -f
+pip install "django-oscar-paypal[oscar]"<\n>
+python manage.py syncdb
+pip install django 
+python manage.py syncdb
+pip install "django-oscar-paypal[oscar]"<\n>
+pip install django-oscar
+python manage.py syncdb
+pip install dotenv
+python manage.py syncdb
+pip install django-oscar-paypal
+python manage.py syncdb
+pip install django
+python manage.py syncdb
+ls
+pip list
+python manage.py syncdb
+pip list
+python manage.py syncdb
+pip freeze | to text | save requirements.txt -f
+pip uninstall -r requirements.txt -y
+pip install "django-oscar-paypal[oscar]"<\n>
+pip list
+pip install django-oscar-paypal[oscar]
+pip list
+pip install django-oscar-paypal
+pip list
+pip install oscar
+pip list
+pip install django-oscar 
+pip install django-2.2
+pip install django== 2.2
+pip install django==2.2
+python manage.py syncdb
+pip install Django=2.2
+pip install Django==2.2
+pip list
+pip uninstall -r requirements.txt -y
+pip list
+cd ..
+ls
+rm -rf django-oscar/ soapsite/
+sudo pacman -S docker
+systemctl start docker.socket
+docker info
+git clone https://github.com/saleor/saleor-platform.git<\n>cd saleor-platform<\n>docker compose build
+sudo pacman -S docker-compose
+git clone https://github.com/saleor/saleor-platform.git<\n>cd saleor-platform<\n>docker compose build
+ls
+docker compose run --rm api python3 manage.py migrate
+usermod -aG docker ascaletty23
+sudo usermod -aG docker ascaletty23
+reboot
+systemctl start docker.socket
+docker info
+ls
+yazi
+fzf
+git clone https://github.com/saleor/saleor-platform.git<\n>cd saleor-platform<\n>docker compose build
+docker compose build
+docker compose run --rm api python3 manage.py migrate
+docker compose run --rm api python3 manage.py createsuperuser
+docker compose up
+pip install git+https://github.com/saleor/saleor-app-framework-python.git@main
+python -m venv biznes
+ls
+rm -rf biznes
+virtualenv biznes
+biznes/bin/activate.nu
+source biznes/bin/activate.nu
+pip install git+https://github.com/saleor/saleor-app-framework-python.git@main
+ls
+cd
+cd soap
+ls
+rm -rf soap/
+ls
+mkdir soap_app
+nvim __main__.py
+ls
+mv __main__.py soap_app/
+cd soap_app/
+nvim app.py
+cd ..
+python -m soap_app/
+python -m soap_app
+nvim soap_app/__main__.py
+python -m soap_app
+cd soap_app/
+ls
+nvim __main__.py
+cd ..
+python -m soap_app
+pip list
+python -m soap_app
+nvim soap_app/app.py
+python -m soap_app
+pip freeze | to text | save requirements.txt -f
+ls
+pip uninstall -r requirements.txt -y
+pipx install poetry
+python3 -m pip install --user pipx<\n>python3 -m pipx ensurepath<\n>sudo pipx ensurepath --global # optional to allow pipx actions with --global argument
+deactivate
+exit
+python3 -m pip install --user pipx<\n>python3 -m pipx ensurepath<\n>sudo pipx ensurepath --global # optional to allow pipx actions with --global argument
+sudo pacman -S python-pipx<\n>pipx ensurepath<\n>sudo pipx ensurepath --global # optional to allow pipx actions with --global argument
+cd soap
+ls
+pipx install poetry
+cd saleor-platform/
+ls
+cd ..
+ls
+virtualenv prod
+ls
+source prod/bin/activate.nu
+poetry add git+https://github.com/mirumee/saleor-app-framework-python.git@main<\n># <\n>
+poetry add git+https://github.com/mirumee/saleor-app-framework-python.git@main<\n>
+poetry add git+https://github.com/mirumee/saleor-app-framework-python.git@main<\n># <\n>
+nvim pyproject.toml
+poetry add git+https://github.com/mirumee/saleor-app-framework-python.git@main<\n># <\n>
+nvim pyproject.toml
+poetry add git+https://github.com/mirumee/saleor-app-framework-python.git@main<\n># <\n>
+nvim pyproject.toml
+poetry add git+https://github.com/mirumee/saleor-app-framework-python.git@main<\n># <\n>
+nvim pyproject.toml
+poetry add git+https://github.com/mirumee/saleor-app-framework-python.git@main<\n># <\n>
+nvim pyproject.toml
+poetry add git+https://github.com/mirumee/saleor-app-framework-python.git@main<\n># <\n>
+python -m soap_app
+l
+sls
+ls
+ls -a
+poetry build
+ls
+cd dist
+ls
+./soap_app-0.1.0-py3-none-any.whl
+cd ..
+ls
+python -m soap_app
+poetry --help
+poetry list
+poetry python list
+poetry check
+poetry list
+poetry self show plugins
+exit
+cd soap
+ls
+rm -rf dist/ poetry.lock prod/ pyproject.toml requirements.txt 
+rm -rf soap_app/
+npm i @saleor/cli -g
+sudo npm i @saleor/cli -g
+saleor
+saleor app template soap_app
+saleor login
+saleor app template soap_app
+cd soap_app/
+ls
+pnpm dev
+ls
+nvim vitest.config.ts
+cd src/
+ls
+cd pages/
+ls
+cd api
+ls
+nvim manifest.ts
+cd ..
+git clone https://github.com/saleor/storefront.git saleor-storefront<\n>cd saleor-storefront<\n>pnpm i
+pnmp i
+pnpm i
+cp .env.example .env
+cd soap
+ls
+cd saleor-platform/
+docker compose up
+ls
+git pull
+docker compose run --rm api python3 manage.py migrate
+nvim .env
+pnpm run dev
+ls
+nvim .env
+pnpm run dev
+docker compose up
+pnpm run dev
+ls
+docker compose run --rm api python3 manage.py populatedb
+pnpm run dev
+nvim .env
+pnpm run dev
+docker compose up
+nvim .env
+rm .env.example
+pnpm run dev
+nvim .env
+pnpm run dev
+ls
+cd ..
+ls
+rm saleor-storefront/
+rm -rf saleor-storefront/
+npm install @saleor/sdk<\n>
+saleor example auth-sdk
+cd auth-sdk/
+pnpm dev
+ls
+nvim next.config.js
+pnpm dev
+nvim next.config.js
+pnpm dev
+nvim next.config.js
+pnpm dev
+nvim next.config.js
+pnpm dev
+nvim next.config.js
+pnpm dev
+cd ..
+rm -rf auth-sdk/
+ls
+cd soap_app/
+ls
+sw prod
+cd clay
+ls
+./output.o
+nvim main.c
+cd clay
+ls
+nvim main.c
+cd clay
+ls
+git pull
+cd ..
+ls
+git add .
+git rm --cached clay
+git submodule add https://github.com/nicbarker/clay clay
+git submodule add https://github.com/nicbarker/clay 
+git commit .
+git push
+git add submodule https://github.com/nicbarker/clay clay
+git submodule add https://github.com/nicbarker/clay clay
+git status
+git submodule help
+git submodule status
+git submodule init
+git submodule seturl clay https://github.com/nicbarker/clay
+git submodule seturl .  https://github.com/nicbarker/clay
+ls
+git status
+git submodule add
+git submodule add clay
+ls
+rm -rf clay
+ls
+git submodule add https://github.com/nicbarker/clay clay
+ls
+git submodule add https://github.com/nicbarker/clay clays
+ls
+nvim .gitmodules
+git rm clays
+git add . 
+git commit .
+git push
+ls
+rm -rf clays clay.h
+git submodule add https://github.com/nicbarker/clay clay
+git submodule update --remote --merge
+git add .
+git commit .
+git push
+make
+./output.o
+la
+ls
+rm -rf clays
+ls
+git rm clays
+git add . 
+git commit .
+git push
+cd clay
+ls
+make
+./output.o
+make
+./output.o
+make
+amake
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+nvim main.c
+make
+./output.o
+nvim test.c
+gcc test.c
+./a.out
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+mkae
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+mkae
+make
+./output.o
+make
+./output.o
+make
+./output.o
+mkae
+make
+./output.o
+mkae
+make
+./output.o
+make
+./output.o
+make
+./out
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+mkae
+make
+./output.o
+mkae
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./out
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+mkae
+make
+./output.o
+make
+./output.o
+mkae
+make
+./output.o
+make
+./output.o
+make
+./output.o
+mkae
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+mkae
+make
+./output.o
+make
+./output.o
+mkae
+make
+./ou
+./output
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+make
+./output.o
+man strlen
+make
+./output.o
+make
+./output.o
+make
+./output.o
+man string
+make
+./output.o
+git add .
+git commit .
+git push
+cd hypr
+ls
+nvim hyprland.conf
+cd hypr
+make
+./output.o
+nvim hyprland.conf
+yay -S spotifyd-pulseaudio-git
+yay -S spotify-tui
+spt
+yay -S spotify-tui
+cargo install spotify-tui
+spt
+snp
+snap
+sudo pacman -S pkg-config openssl
+yay -S spotify-tui
+sudo pacman -S snap
+yay -S snapd
+snap install spt
+sudo systemctl enable --now snapd.socket
+snap install spt
+sudo snap install spt
+reboot
+snap install spt
+sudo snap install spt
+sudo snap install spt --edge
+spt
+yay -S spotify-player
+spotify_player
+yazi
+spotify_player
+yazi
+cd spotify_player
+cd .config/
+cd spotify-player/
+ls
+spotify_player
+sudo pacman -S openssl alsa-lib libdbus
+nvim app.toml
+cd
+docker pull aome510/spotify_player:latest
+docker
+docker pull aome510/spotify_player:latest
+spotify_player
+cd spotify-player/
+cd .config/spotify-player
+nvim app.toml
+cd .config/spotify-player
+nvim app.toml
+spotify_player
+sudo pacman -Rns snapd
+cd 
+pacman -S mopidy
+sudo pacman -S mopidy
+sudo pacman -Rns gst-plugins-base-libs
+sudo pacman -Rns cheese
+sudo pacman -S mopidy
+sudo pacman -Rns gst-plugins-base-libs
+sudo pacman -S nautilus
+sudo pacman -Rns nautilus
+sudo pacman -Rns nautilus-python
+sudo pacman -Rns nautilus-open-any-terminal
+sudo pacman -Rns nautilus
+sudo pacman -Rns xdg-desktop-portal-gnome
+sudo pacman -Rns gnome-session
+sudo pacman -Rns gnome-shell
+sudo pacman -Rns gscreenshot
+sudo pacman -Rns gcreenshot
+sudo pacman -Rns gnome-control-center
+sudo pacman -Rns illogical-impulse-gnome
+sudo pacman -S mopidy
+sudo pacman -Rns gst-plugins-bad-libs
+sudo pacman -Rns gtk4
+pacman -Rns gnome-*
+sudo pacman -Rns gnome-*
+sudo pacman -Rns gnome
+sudo pacman -Rns illogical-impulse-asgv1
+sudo pacman -Rns illogical-impulse-agsv1
+sudo pacman -Rns gnome
+sudo pacman -Rns illogical-impulse-gtk
+sudo pacman -Rns gnome
+sudo pacman -Rns gst-plugins-bad-libs
+sudo pacman -Rns gtk4
+sudo pacman -Rns illogical-impulse-python
+sudo pacman -Rns pavucontrol
+sudo pacman -Rns illogical-impulse-audio
+sudo pacman -Rns pavucontrol
+sudo pacman -Rns gtk4
+man libadwaita
+sudo pacman -Rns libadwaita
+sudo pacman -Rns pinta
+sudo pacman -Rns gst-plugins-bad-libs
+sudo pacman -S mopidy
+sudo pacman -Rns gst-plugins-bad-libs
+sudo pacman -S webkit2gtk
+sudo pacman -Rns webkit2gtk
+sudo pacman -Rns gst-plugins-bad-libs
+sudo pacman -Rns wxwidgets-gtk3
+sudo pacman -Rns gnuplot
+sudo pacman -S mopidy
+mopidy
+sudo pacman -S mopidy-mpd
+sudo yay -S mopidy-mpd
+yay -S mopidy-mpd
+mopidy
+mopidy config
+yay -S mopidy-spotify
+cd .config/
+cd mopidy/
+ls
+nvim mopidy.conf
+cd clay
+ls
+make
+./output.o
+nvim main.c
+yay -S mopidy-spotify-git
+cd
+cd clay
+ls
+make
+./output.o
+spt
+cd caly
+cd clay
+ls
+yay -S spotify-player-full
+spt
+spotify-player
+spotify_player
+yazi
+spotify_player
+cd spotify-player/
+cd .config/spotify-player/
+ls
+cat app.toml
+bat app.toml
+nvim app.toml
+spotify_player restart
+spotify_player --help
+spotify_player -c
+spotify_player -C
+ls
+spotify_player connect
+spotify_player --help
+spotify_player authenticate
+bat app.toml
+nvim app.toml
+spotify_player 
+spotify_player --help
+spotify_player authenticate
+nvim auth.txt
+spofify_player
+spotify_player
+reboot
+spotify_player -C /home/ascaletty23/.config/spotify-player/
+cd .config/spotify-player/
+bat app.toml
+nvim app.toml
+cd
+spotify_player -t
+spotify_player --theme
+spotify_player --theme gruvbox
+cd spotify-player/
+cd spotify-player
+bat app.toml
+nvim app.toml
+ls
+cd audio/
+ls
+cd ..
+cd image/
+ls
+cd ..
+rm spotify-player-25-06-05-09-26.backtrace spotify-player-25-06-05-09-26.log
+ls
+spotify_player
+spotify_player reload
+spotify_player --help
+spotify_player generate
+spotify_player generate nu
+spotify_player get
+spotify_player get help
+spotify_player get item
+spotify_player get item config
+spotify_player get item playlist
+spotify_player get item playlist d
+spotify_player get item playlist
+nvim app.toml
+nvim spotkey.sh
+mv spotkey.sh spotkey.nu
+nvim app.toml
+cd
+spotify_player 
+cd spotify-player
+nvim app.toml
+nvim spotkey.nu
+mv spotkey.nu spotkey.txt
+nvim app.toml
+spotify_player 
+nvim app.toml
+spotify_player 
+sudo pacman -S spotify-player-git
+sudo pacman -S spotify-player
+cd
+spotify_player 
+cd spotify-player
+nvim app.toml
+cat spotkey.txt
+nvim app.toml
+spotify_player 
+nvim app.toml
+spotify_player
+spotify_player --version
+cargo install spotify-player --locker
+cargo install spotify-player --locked
+cargo install spotifyIplayer --locked
+sudo pacman -R spotify-player
+cargo install spotify_player --locked
+spotify_player
+rm app.toml
+spotify_player
+ls
+nvim app.toml
+spotify_player
+rm app.toml\
+rm app.toml
+nvim app.toml
+spotify_player --version
+spotify_player
+nvim app.toml
+spotify_player
+bat app.toml
+mpv 'https://www.youtube.com/watch?v=IICGZ7YOafs&t=36s'
+mpv https://www.youtube.com/watch?v=IICGZ7YOafs&t=36s
+mpv 
+sudo pacman ytfzf
+sudo pacman -S ytfzf
+ytfzf
+ytfzf 'https://www.youtube.com/watch?v=IICGZ7YOafs&t=39s'
+ytfzf https://www.youtube.com/watch?v=IICGZ7YOafs&t=39s
+mpv "https://www.youtube.com/watch?v=IICGZ7YOafs&t=39s"
+mpv
+matugen image wallpaper/7731799-2091613552.png
+swww
+sudo pacman -S swww
+matugen image wallpaper/7731799-2091613552.png
+matugen 
+matugen image wallpaper/bullet-space.jpg
+swww wallpaper/orange-desert.jpg
+swww 
+swww img wallpaper/sundown-over-water.jpg
+sww-daemon
+matugen image wallpaper/bullet-space.jpg
+sudo pacman -Rns waypaper
+cd clay
+cd qutebrowser
+ls
+nvim autoconfig.yml
+nvim config.py
+config nu
+cd .config/nushell/
+ls
+nvim config.nu
+nvim .config/nushell/config.nu
+spac
+spac -S wezterm
+wezterm
+spac -Rns wezterm
+spac -S ghostty
+ls
+yazi
+nitch
+pacseek
+spac -Rns yarn
+spac -R yarn
+sudo rm -rf /usr/bin/yarn /usr/bin/yarnpkg
+cd /usr/share/plymouth/themes/
+ls
+sudo git clone https://github.com/jcklpe/Plymouth-Animated-Boot-Screen-Creator?tab=readme-ov-file
+ls
+cd script/
+ls
+cd Downloads/
+path
+ls
+yazi
+yazi
+sudo mv `91d990e7171e743f22e04d83366cf056-2332604878 (online-video-cutter.com).mp4` /usr/share/plymouth/themes/script/
+cd
+ls
+nvim script.plymouth
+nvim script.script
+ls
+mv `91d990e7171e743f22e04d83366cf056-2332604878 (online-video-cutter.com).mp4` ..
+sudo mv `91d990e7171e743f22e04d83366cf056-2332604878 (online-video-cutter.com).mp4` ..
+ls
+cd ..
+ls
+sudo mkdir ironman
+cd ironman/
+ls
+sudo git clone https://github.com/thedonquixotic/Plymouth-Animated-Boot-Screen-Creator.git .
+ls
+cd ..
+mv `91d990e7171e743f22e04d83366cf056-2332604878 (online-video-cutter.com).mp4` ironman/
+sudo mv `91d990e7171e743f22e04d83366cf056-2332604878 (online-video-cutter.com).mp4` ironman/
+cd ironman/
+ls
+mv `91d990e7171e743f22e04d83366cf056-2332604878 (online-video-cutter.com).mp4` input/
+sudo mv `91d990e7171e743f22e04d83366cf056-2332604878 (online-video-cutter.com).mp4` input/
+sudo git clone https://github.com/krishnan793/PlymouthTheme-Cat.git /usr/share/plymouth/themes/PlymouthTheme-Cat
+sudo plymouth-set-default-theme --list
+yazi
+sudo pacman -S cheese
+sudo plymouth-set-default-theme PlymouthTheme-Cat -R
+cheese
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+plymouthd
+sudo plymouthd
+cam -list
+cam -list
+cam -C
+cam -d
+cam -d -c 1
+cam --list
+fzf 
+yazi
+fzf 
+yazi
+libcamera-hello
+libcamera -hello
+libcamera
+spac libcamera
+spac -S  libcamera
+libcamera
+libcamera -hello
+zsh
+yazi
+spac -Rns autostart
+yazi .config/
+spac -Rns anyrun
+yazi .config/
+pacseek
+anyrun
+yay -Rns anyrun
+yay -Rns anyrun-git
+yay -Rns illogical-impulse-widgets
+hyprlocl
+hyprlock
+ssdm
+sudo pacman -Rns cheese
+clutter
+pacman -Rns dotnet-host
+sudo pacman -Rns dotnet-host
+sudo pacman -Rns dotnet-runtime-6.0
+sudo pacman -Rns ghostty
+sudo pacman -Rns gnome-desktop
+yay -Rns gnome-desktop
+sudo pacman -Rns flatpak
+sudo pacman -S flatpak
+sudo pacman -Rns wlogout
+hyprpicker
+hyprshade
+hyprshade auto
+spac -Rns hyprshade
+spac -Rns kaccounts-integration
+spac -Rns kde-cli-tools
+spac -Rns plasma-workplace
+yay -Rns plasma-workplace
+spac -Rns plasma-workspace
+spac -Rns plasma-browser-integration
+sudo pacman -Rns ocean-sound-theme
+sudo pacman -Rns oh-my-posh-bin-debug
+pacseek
+bonsia
+bonsai
+ansi
+sudo pacman -S tty-clock
+yay -S tty-clock
+pipes.sh
+tty-clock
+yazi .config/
+tty-clock  -help
+cbonsai
+yay -S cbonsai
+spac -S cbonsai
+nitch
+neofetch
+nitch
+sudo pacman -S cava
+cava
+matugen image wallpaper/7731799-2091613552.png
+cava
+cava -help
+cava 
+cd .config/cava/
+ls
+nvim config
+cava
+cp config ../matugen/
+cd matugen
+ls
+matugen image wallpaper/7731799-2091613552.png --show-colors
+nvim config
+nvim config.toml
+nvim rofi-colors.rasi
+nvim config
+nvim config.toml
+cd
+matugen image wallpaper/7731799-2091613552.png --show-colors
+cd cava
+cd matugen
+nvim config
+ls
+nvim config
+cd
+matugen image wallpaper/astronaut.jpg
+cd matugen
+nvim config
+cd
+matugen image wallpaper/astronaut.jpg
+cd matugen
+nvim config.toml
+cd
+matugen image wallpaper/astronaut.jpg
+cava
+cd
+cd matugen
+nvim config
+cava
+dc
+cd
+matugen image wallpaper/astronaut.jpg
+i
+nitch
+pipe.sh
+nvim wallpaper.sh
+yazi
+nvim wallpaper.sh
+./wallpaper.sh
+nvim wallpaper.sh
+./wallpaper.sh
+nvim wallpaper.sh
+./wallpaper.sh
+nvim wallpaper.sh
+./wallpaper.sh
+cd hypr
+nvim hyprland.conf
+cd
+ls
+n
+cd hypr
+nvim hyprland.conf
+cd
+nvim hyprland.conf
+cd hypr
+nvim hyprland.conf
+hyprctl reload
+yazi
+cd ncspot
+cd .config/ncspot/
+cp config.toml ../matugen
+ls
+cd ..
+cd matugen
+ls
+cd ncspot
+ls
+cd ..
+cd matugen
+ls
+ncim config.toml
+nvim config.toml
+mv config.toml config_ncspot.toml
+cd
+tuckr add \*
+tuckr add matugen
+cd matugen
+ls
+cd ..
+nvim config.toml
+cd matugen
+cd
+matugen image wallpaper/astronaut.jpg --show-colors
+nvim config_ncspot.toml
+cd
+matugen image wallpaper/astronaut.jpg --show-colors
+matugen image wallpaper/astronaut.jpg 
+./wallpaper.sh
+reboot
+btop
+pkill -all
+pkill all
+sudo pkill all
+sww
+swww image wallpaper/bullet-space.jpg
+swww img wallpaper/bullet-space.jpg
+./wallpaper.sh
+zsh
+./wallpaper.sh
+nvim wallpaper.sh
+matugen image wallpaper/astronaut.jpg 
+matugen
+cd matugen
+nvim config.toml
+ls
+bat config_ncspot.toml
+nvim config.toml
+ncspot
+ncspot reload
+ncspot --help
+matugen image wallpaper/astronaut.jpg 
+nvim config.toml
+cd
+nitch
+./
+cd matugen
+nvim config.toml
+nitch
+cd hypr
+pipes.sh
+nvim hyprland.conf
+cd matugen
+matugen image wallpaper/astronaut.jpg --show-colors
+nvim config_ncspot.toml
+cd
+matugen image wallpaper/astronaut.jpg --show-colors
+cd matugen
+nvim config_ncspot.toml
+matugen image wallpaper/astronaut.jpg --show-colors
+cd
+matugen image wallpaper/astronaut.jpg --show-colors
+cd matugen
+nvim config_ncspot.toml
+cd
+matugen image wallpaper/astronaut.jpg --show-colors
+matugen image wallpaper/orange-desert.jpg
+cava
+yazi .config/
+pipes.sh
+nitch
+clear
+nitch
+cp wallpaper.sh ~/.config/dotfiles/Hooks/
+cd dotfiles
+ls
+cd hooks
+cd Hooks/
+ls
+tuckr add wallpaper.sh
+mkdir wallreload
+mv wallpaper.sh wallreload/
+tuckr add wallreload
+rm -rf wallreload/
+cd ..
+cd
+ls
+mv wallpaper.sh .config/matugen
+cd hypr
+nvim hyprland.conf
+cd
+cd dot
+tuckr add *
+cd Configs/
+tuckr add *
+tuckr status
+yazi
+cd
+matugen image wallpaper/47ac3b90122b9308f981760fa3781bfe-2822660016.jpg
+nitch
+clear
+nitch
+cd dotfiles
+git add .
+git commit .
+git push
+ls
+cd Configs/
+ls
+mkdir cava/.config/cava/
+tree
+cd cava
+yazi
+cd ..
+mkdir ncspot/.config/ncspot/
+cd ..
+cd cava
+ls
+mv . ../dotfiles/Configs/cava/.config/cava/
+cd cava
+ls
+cd .config/
+ls
+cd cava/
+ls
+cd cava
+;s
+ls
+mv . ..
+mv  config shaders/ ..
+cd ..
+ls
+rm -r cava
+ls
+tuckr add cava
+yazi
+cd ..
+mkdir hypr/.config/hypr/
+cd hypr
+cd ..
+cd .
+cd ..
+cd .. 
+cd hypr
+mv  colors.conf hyprland.conf /home/ascaletty23/.config/dotfiles/Configs/hypr/.config/hypr/
+tuckr add hypr
+yazi
+tuckr status
+cd ..
+cd ncspot/
+ls
+yazi .config/
+cd dotfiles
+cd Configs/n
+cd ..
+ls
+tuckr status
+cd ncspot/.config/ncspot/
+ls
+mv config.toml userstate.cbor /home/ascaletty23/.config/dotfiles/Configs/ncspot/.config/ncspot/
+tuckr add ncspot
+tuckr status
+cd..
+cd ..
+cd .. 
+git add .
+git commit ,
+git commit .
+git push
+ls
+cd Hook
+cd ..
+ls
+sudo apt-get install cbonsai
+cd dotfiles
+nvim install.sh
+./install.sh
+chmod +x install.sh
+./install.sh
+cd dotfiles
+ls
+nvim install.sh
+./
+./in
+./install.sh
+cd
+ls
+bat install_progress_log.txt
+rm install_progress_log.txt
+sudo pacman -S matugen
+yay -S matugen
+cd matugen
+ls
+timectl ./wallpaper.sh
+timeit ./wallpaper.sh
+timeit | ./wallpaper.sh
+timeit ./wallpaper.sh
+time ./wallpaper.sh
+cd matugen
+ls
+chsh zsh
+chsh$ zsh
+cd
+cd kitty
+nvim kitty.conf
